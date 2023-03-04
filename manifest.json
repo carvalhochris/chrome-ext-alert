@@ -5,7 +5,7 @@
     "permissions": ["tabs"],
     "content_scripts": [
       {
-        "matches": ["*://krunker.io/*"],
+        "matches": ["*://krunker.io/*", "*://en.forgeofempires.com/*"],
         "js": ["content.js"]
       }
     ]
