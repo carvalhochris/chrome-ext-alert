@@ -1,3 +1,5 @@
+# Get More Done — Block your favourite web games
+
 1. Clone Repo
 2. Open chrome extensions window
 3. Enable developer mode
